@@ -1,0 +1,17 @@
+<! DOCTYPE html>
+<html lang="ru"></html>
+<head>
+    <meta charset="UTF8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Мой первый сайт</title>
+    </head>
+    <body>
+        <h1>Добро пожаловать на мой первый сайт!</h1>
+            <p>Это мой первый сайт,сойданный полностью с нуля на HTML.</p>
+            <p>Спасибо что зашли на этот сайт</p>
+            </body>
+            </html>
+            <img src="path/to/image.jpg" alt="Grass">
+            <p>Зайди в мой дс сервер  <a href="https://example.com">Example</a>чтобы поддержать меня.</p>
+        </body>
+        </html>
